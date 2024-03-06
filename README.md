@@ -1,2 +1,2 @@
 # Apps-development
-Web and mobiles apps
+Personal projects : Web apps | Mobile apps | packages
